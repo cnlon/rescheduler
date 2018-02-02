@@ -1,0 +1,33 @@
+{
+  "name": "rescheduler",
+  "version": "0.0.0",
+  "description": "To collect asynchronous tasks and reschedule for batching and custom actions such as debouncing and throttling",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "schedule",
+    "reschedule",
+    "async",
+    "promise",
+    "tasks",
+    "jobs",
+    "batch",
+    "debounce",
+    "throttle"
+  ],
+  "engines": {
+    "node": ">= 7.10.0"
+  },
+  "homepage": "https://github.com/cnlon/rescheduler#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnlon/rescheduler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cnlon/rescheduler/issues"
+  },
+  "author": "lon (https://lon.im)",
+  "license": "MIT"
+}
