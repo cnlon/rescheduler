@@ -17,6 +17,9 @@
     "debounce",
     "throttle"
   ],
+  "directories": {
+    "example": "examples"
+  },
   "engines": {
     "node": ">= 7.10.0"
   },
